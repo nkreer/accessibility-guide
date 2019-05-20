@@ -1,0 +1,17 @@
+body {
+	padding: 5%;
+	font-family: sans-serif;
+	line-height: 1.6em;
+	background-color: #ededed;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+}
+
+img {
+	max-width: 90%;
+	height: auto;
+}
